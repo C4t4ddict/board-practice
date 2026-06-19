@@ -1,3 +1,4 @@
+[B가 수정]
 public class Board {
 private int id;
 private String title;
