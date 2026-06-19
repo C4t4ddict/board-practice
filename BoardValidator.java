@@ -1,3 +1,4 @@
+[modified by C]
 public class BoardValidator {
     public static void validate(Board board) {
         if (board.getTitle() == null || board.getTitle().isEmpty())
