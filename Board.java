@@ -8,6 +8,7 @@ private int id;
 private String title;
 private String author;
 // getter/setter 생략
+[B계정이 add]
 }
     // feature/A: 조회수 기능 추가
     private int viewCount = 0;
